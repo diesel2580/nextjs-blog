@@ -4,6 +4,11 @@ export default function FirstPage() {
     <div>
       <h2>정유경</h2>
       <Link href="/">Back to home</Link>
+      <hr />
+      <br />
+      <Link href="/ball-bouncing_processing.html">ball bouncing</Link>
+      <br />
+      <Link href="/ball-bouncing_processing.html">ball colliding</Link>
     </div>
   );
 }
